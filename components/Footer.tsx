@@ -41,7 +41,7 @@ export const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center pt-10 border-t border-slate-200 gap-6">
           <div className="flex flex-col gap-1">
-            <div className="text-sm text-slate-400">© 2025 Pixie Fix™. All rights reserved.</div>
+            <div className="text-sm text-slate-400">© 2026 Pixie Fix™. All rights reserved.</div>
             <div className="text-xs text-slate-400 font-medium">
               Powered by <a href="https://www.nexaforgetech.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600 transition-colors font-bold underline decoration-blue-500/30 underline-offset-4">Nexaforge Technologies</a>
             </div>
