@@ -1,0 +1,7 @@
+{
+  "name": "Pixie Fix",
+  "description": "AI-driven home improvement marketplace providing instant quotes and scheduled jobs through computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
